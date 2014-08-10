@@ -20,10 +20,11 @@ Build/*
 !Library/unity default resources
 !Library/unity editor resources
 !Library/metadata/
- 
+ Library/assetDatabase3
  
 #ignoring pidb, they are just code completion caching data according to:
 # http://stackoverflow.com/questions/1022111/what-are-monodevelops-pidb-files
 *.pidb
 *.userprefs
 Test/Temp/UnityLockfile
+Test/Library/assetDatabase3

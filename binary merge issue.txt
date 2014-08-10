@@ -1,0 +1,3 @@
+git checkout --theirs -- "filename"
+
+git commit –m “My commit message for the merge”

@@ -1,1 +1,0 @@
-Assets/Sample Assets/Characters and Vehicles/Car/Textures/skyCar_body_nrm.png

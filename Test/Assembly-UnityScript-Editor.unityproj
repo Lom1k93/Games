@@ -46,7 +46,6 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\RAIN\Editor\ScriptTemplates\ActionTemplate_JS.js" />
      <Compile Include="Assets\Sample Assets\Effects\Light Shafts\Editor\LightShaftsEditor.js" />
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\SamplePositions.shader" />
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\Shared.cginc" />
@@ -64,7 +63,6 @@
      <None Include="Assets\Sample Assets\Effects\Particle Systems\Particle Systems Guidelines.txt" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
      <None Include="Assets\Sample Assets\Cross Platform Input\Cross Platform Input Guidelines.txt" />
-     <None Include="Assets\RAIN\releasenotes.txt" />
      <None Include="Assets\Sample Assets\Effects\Particle Systems\Shaders\Priority Particle Add (Soft).shader" />
      <None Include="Assets\Sample Assets\Effects\Shaders\Mobile-Spec.shader" />
      <None Include="Assets\Sample Assets\Characters and Vehicles\Car\Car Guidelines.txt" />
@@ -77,20 +75,7 @@
      <None Include="Assets\Sample Assets\Characters and Vehicles\Rolling Ball\Rolling Ball Guidelines.txt" />
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Light Shafts Guidelines.txt" />
      <None Include="Assets\Sample Assets\Effects\Particle Systems\Shaders\Priority Particle Add.shader" />
-     <None Include="Assets\RAIN\Editor\ScriptTemplates\BehaviorTreeTemplate.xml" />
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\ColorFilter.shader" />
- <Reference Include="RAINIndie">
- <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/RAINIndie.dll</HintPath>
- </Reference>
- <Reference Include="Recast">
- <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/Recast.dll</HintPath>
- </Reference>
- <Reference Include="RAINEditor">
- <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/Editor/RAINEditor.dll</HintPath>
- </Reference>
- <Reference Include="RecastEditor">
- <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/Editor/RecastEditor.dll</HintPath>
- </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>

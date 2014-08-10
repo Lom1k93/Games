@@ -1,39 +1,49 @@
 Base path: C:/Program Files (x86)/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-1-10468
+Pipe name: \\.\pipe\UnityShaderCompiler-1-25208
 Cmd: getPlatforms
 Cmd: preprocess
-  insize=2933 outsize=203 ok=1
+  insize=1185 outsize=408 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=685 outsize=100 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=685 outsize=49 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=640 outsize=100 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=640 outsize=19 kw= ok=1
 Cmd: preprocess
-  insize=1144 outsize=1269 ok=1
+  insize=1601 outsize=192 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1659 outsize=1167 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1659 outsize=159 kw= ok=1
 Cmd: preprocess
-  insize=1533 outsize=1118 ok=1
+  insize=1159 outsize=381 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=685 outsize=100 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=685 outsize=49 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=640 outsize=100 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=640 outsize=19 kw= ok=1
 Cmd: preprocess
-  insize=889 outsize=229 ok=1
+  insize=137 outsize=137 ok=1
 Cmd: preprocess
-  insize=7006 outsize=291 ok=1
+  insize=1048 outsize=208 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1100 outsize=169 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1100 outsize=311 kw= ok=1
 Cmd: preprocess
-  insize=2379 outsize=1092 ok=1
+  insize=752 outsize=201 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=820 outsize=129 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=820 outsize=104 kw= ok=1
 Cmd: preprocess
-  insize=2340 outsize=1021 ok=1
-Cmd: preprocess
-  insize=584 outsize=192 ok=1
-Cmd: preprocess
-  insize=678 outsize=208 ok=1
-Cmd: preprocess
-  insize=2926 outsize=568 ok=1
-Cmd: preprocess
-  insize=4254 outsize=230 ok=1
-Cmd: preprocess
-  insize=3110 outsize=1735 ok=1
-Cmd: preprocess
-  insize=1228 outsize=198 ok=1
-Cmd: preprocess
-  insize=1057 outsize=1526 ok=1
-Cmd: preprocess
-  insize=743 outsize=743 ok=1
-Cmd: preprocess
-  insize=2379 outsize=1086 ok=1
-Cmd: preprocess
-  insize=1812 outsize=1056 ok=1
-Cmd: preprocess
-  insize=920 outsize=1125 ok=1
+  insize=787 outsize=189 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=865 outsize=204 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=865 outsize=104 kw= ok=1

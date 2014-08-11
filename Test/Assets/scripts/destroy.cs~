@@ -9,6 +9,7 @@ public class destroy : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
+//destroys gameobj when space is pressed
 	void Update () {
 		if(Input.GetKeyDown("space")){
 			Destroy (gameObject );

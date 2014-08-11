@@ -251,7 +251,7 @@ MonoBehaviour:
       /><field value="48.69515,0,26.83172" type="UnityEngine.Vector3" id="position"
       /><field value="0.5" type="System.Single" id="range" /></reference><reference
       type="RAIN.Navigation.Waypoints.Waypoint" refcount="1" id="17"><field value=""
-      type="System.String" id="waypointName" /><field value="39.83757,0,24.51211"
+      type="System.String" id="waypointName" /><field value="40.77611,0,24.51211"
       type="UnityEngine.Vector3" id="position" /><field value="0.5" type="System.Single"
       id="range" /></reference><reference type="RAIN.Navigation.Waypoints.Waypoint"
       refcount="1" id="18"><field value="" type="System.String" id="waypointName"

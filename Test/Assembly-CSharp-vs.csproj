@@ -170,11 +170,11 @@
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/Corbin/Copy/Games/Test/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
- <Reference Include="RAINMetaform">
- <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/RAINMetaform.dll</HintPath>
- </Reference>
  <Reference Include="RAIN">
  <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/RAIN.dll</HintPath>
+ </Reference>
+ <Reference Include="RAINMetaform">
+ <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/RAINMetaform.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

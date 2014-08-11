@@ -85,11 +85,8 @@
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Light Shafts Guidelines.txt" />
      <None Include="Assets\Sample Assets\Effects\Particle Systems\Shaders\Priority Particle Add.shader" />
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\ColorFilter.shader" />
- <Reference Include="UnityEditor.Graphs">
- <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
- </Reference>
- <Reference Include="RAINUpdater">
- <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/Editor/RAINUpdater.dll</HintPath>
+ <Reference Include="RAIN">
+ <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/RAIN.dll</HintPath>
  </Reference>
  <Reference Include="RAINMetaform">
  <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/RAINMetaform.dll</HintPath>
@@ -97,14 +94,17 @@
  <Reference Include="AetherUnity">
  <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/Editor/AetherUnity.dll</HintPath>
  </Reference>
- <Reference Include="RAIN">
- <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/RAIN.dll</HintPath>
- </Reference>
  <Reference Include="LegionRestModel">
  <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/Editor/LegionRestModel.dll</HintPath>
  </Reference>
  <Reference Include="RAINEditor">
  <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/Editor/RAINEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="RAINUpdater">
+ <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/Editor/RAINUpdater.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Graphs">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

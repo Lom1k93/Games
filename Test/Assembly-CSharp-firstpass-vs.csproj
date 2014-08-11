@@ -86,11 +86,11 @@
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Light Shafts Guidelines.txt" />
      <None Include="Assets\Sample Assets\Effects\Particle Systems\Shaders\Priority Particle Add.shader" />
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\ColorFilter.shader" />
- <Reference Include="RAINMetaform">
- <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/RAINMetaform.dll</HintPath>
- </Reference>
  <Reference Include="RAIN">
  <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/RAIN.dll</HintPath>
+ </Reference>
+ <Reference Include="RAINMetaform">
+ <HintPath>C:/Users/Corbin/Copy/Games/Test/Assets/RAIN/RAINMetaform.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
